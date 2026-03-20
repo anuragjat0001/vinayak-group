@@ -38,3 +38,12 @@ vinayak-group-website/
 │       └── uniraj.svg
 │
 └── README.md                     # 📋 Deployment Instructions
+
+# 1. Create folder structure
+mkdir -p vinayak-group-website/{css,js,images,assets/icons}
+
+# 2. Copy all HTML files (index.html to contact.html)
+# 3. Copy css/style.css → css/
+# 4. Copy js/script.js → js/
+# 5. Add campus images to images/
+# 6. Upload to Hostinger / SiteGround
